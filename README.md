@@ -45,6 +45,8 @@ CREATE DATABASE gamazone_db;
 
 ---
 
+![Database ERD](./resources/entity_relationship.png)
+
 ### Run Database Schema
 ```sql
 \i D:/awsprojects/gamazone-db-maintenance/gamazone_schema.sql
