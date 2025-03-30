@@ -89,8 +89,10 @@ The `sample_data.sql` file contains realistic sample data for testing and showca
 To insert sample data into the database:
 ```bash
 psql -U your_username -d gamazone_db -f D:/awsprojects/gamazone-db-maintenance/sample_data.sql
+```
+---
 
-# 📚 Setting Up pgAdmin to Connect to Amazon RDS PostgreSQL
+## 📚 Setting Up pgAdmin to Connect to Amazon RDS PostgreSQL
 
 ---
 
