@@ -1,0 +1,3 @@
+#!/bin/bash
+# Connect to Gamazone PostgreSQL Database on AWS RDS
+psql -h gamazone-db-instance.c9m8q0yekuoq.us-east-2.rds.amazonaws.com -U gamazone_admin -d postgres
