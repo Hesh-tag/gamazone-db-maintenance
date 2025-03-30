@@ -57,22 +57,6 @@ CREATE DATABASE gamazone_db;
 \dt
 ```
 
----
-
-# Gamazone Database Maintenance Project
-
-This project contains a PostgreSQL database setup for **Gamazone**, an e-commerce platform specializing in gaming equipment. The database includes tables for users, products, orders, order items, payments, and inventory.
-
-## 📚 Project Overview
-- **Database Name:** `gamazone_db`
-- **Technology:** PostgreSQL hosted on Amazon RDS
-- **Focus Areas:**
-  - Access Control
-  - Security Measures
-  - Data Backup and Maintenance
-
----
-
 ## 📂 Database Structure
 ### 1. Users Table
 - Stores user information such as name, email, and password.
