@@ -134,6 +134,6 @@ psql -U your_username -d gamazone_db -f D:/awsprojects/gamazone-db-maintenance/s
 2. Click on **Databases** and select your database to view and manage tables, run queries, and perform database operations.
 
 ---
-![Pgadmin ERD](./resources/pgadmin .png)
+![Pgadmin ERD](./resources/pgadmin.png)
 
 ---
