@@ -5,14 +5,14 @@ This is a demonstration of a sample project which manages the PostgreSQL databas
 
 ## 📚 Content Overview
 
-- [ Project Overview](#-project-overview)
-- [1. Creating a PostgreSQL Database in Amazon RDS](#-creating-a-postgresql-database-in-amazon-rds)
-- [2. Basic Schema Setup (`gamazone_schema.sql`)](#-basic-schema-setup-gamazone_schemasql)
-- [3. Sample Data Insertion (`sample_dataset.sql`)](#-sample-data-insertion-sample_datasetsql)
-- [4. Setting Up pgAdmin](#-setting-up-pgadmin)
-- [5. Backup and Restore Procedures](#-backup-and-restore-procedures)
-- [6. Increasing Availability with Multi-AZ](#-increasing-availability-with-multi-az)
-- [7. Setting Up Access Control](#-setting-up-access-control)
+- [🎯 Project Overview](#-project-overview)
+- [🚀 1. Creating a PostgreSQL Database in Amazon RDS](#-1-creating-a-postgresql-database-in-amazon-rds)
+- [📚 2. Basic Schema Setup (gamazone_schema.sql)](#-2-basic-schema-setup-gamazone_schemasql)
+- [📄 3. Sample Data Insertion (sample_dataset.sql)](#-3-sample-data-insertion-sample_datasetsql)
+- [🎨 4. Setting Up pgAdmin](#-4-setting-up-pgadmin)
+- [🔒 5. Backup and Restore Procedures](#-5-backup-and-restore-procedures)
+- [⚡️ 6. Increasing Availability with Multi-AZ](#-6-increasing-availability-with-multi-az)
+- [🔐 7. Setting Up Access Control](#-7-setting-up-access-control)
 
 ---
 
